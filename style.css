@@ -133,9 +133,9 @@ section{
   text-align: center;
 }
 .footer h2{
+  color: #4ea1d3;
   font-size: 20px;
   font-weight: bold;
-  padding-top: 10px;
-  padding-bottom: 10px;
+  padding-bottom: 5px;
   text-align: center;
 }
