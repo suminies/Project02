@@ -98,16 +98,16 @@ body{
   padding-bottom: 10px;
 }
 .image1 img{
-  width: 720px;
+  width: 100%;
 }
 .image2 img{
-  width: 720px;
+  width: 100%;
 }
 .image3 img{
-  width: 720px;
+  width: 100%;
 }
 .image4 img{
-  width: 720px;
+  width: 100%;
 }
 .resume h2{
   font-size: 25px;
