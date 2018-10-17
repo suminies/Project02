@@ -112,6 +112,7 @@ body{
 }
 .image0 img{
   width: 30%;
+  display: block;
   margin: 0px auto;
 }
 .image1 img{
@@ -143,7 +144,8 @@ body{
   margin: 10px auto;
 }
 .video1{
-  width: 80%;
+  width: 100%;
+  display: block;
   margin: 10px auto;
 }
 .resume h2{
