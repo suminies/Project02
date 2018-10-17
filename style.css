@@ -75,6 +75,13 @@ body{
   padding: 0.5em;
   margin-bottom: 0.5em;
 }
+.home ul{
+  padding-top: 15px;
+  padding-bottom: 15px;
+  padding-right: 15px;
+  padding-left: 30px;
+  position: relative;
+}
 .resume{
   background: #FFFFFF;
   padding-top: 15px;
@@ -84,6 +91,12 @@ body{
   position: relative;
   width: 75%;
   margin: 30px auto;
+}
+.resume ul{
+  padding-bottom: 15px;
+  padding-right: 15px;
+  padding-left: 30px;
+  position: relative;
 }
 .info{
   text-align: right;
