@@ -97,6 +97,18 @@ body{
   padding-top: 10px;
   padding-bottom: 10px;
 }
+.image1 img{
+  width: 720px;
+}
+.image2 img{
+  width: 720px;
+}
+.image3 img{
+  width: 720px;
+}
+.image4 img{
+  width: 720px;
+}
 .resume h2{
   font-size: 25px;
   margin: 10px auto;
