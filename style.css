@@ -124,11 +124,11 @@ section{
   display: block;
 }
 .footer{
+  color: #FFFFFF;
   background: #454552;
   padding-top: 15px;
   padding-bottom: 15px;
-  padding-right: 15px;
-  padding-left: 15px;
   position: relative;
   width: 100;
+  text-align: center;
 }
