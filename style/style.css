@@ -51,6 +51,7 @@ body{
   position: relative;
   width: 75%;
   margin: 30px auto;
+  float: none;
 }
 .me h2{
   color: #FFFFFF;
@@ -102,6 +103,7 @@ body{
 .info{
   text-align: right;
   padding-bottom: 10px;
+  float: none;
 }
 .info h3{
   text-align: right;
@@ -115,34 +117,42 @@ body{
   width: 30%;
   display: block;
   margin: 0px auto;
+  float: none;
 }
 .image1 img{
   width: 100%;
   margin: 10px auto;
+  float: none;
 }
 .image2 img{
   width: 100%;
   margin: 10px auto;
+  float: none;
 }
 .image3 img{
   width: 100%;
   margin: 10px auto;
+  float: none;
 }
 .image4 img{
   width: 100%;
   margin: 10px auto;
+  float: none;
 }
 .image5 img{
   width: 100%;
   margin: 10px auto;
+  float: none;
 }
 .image6 img{
   width: 100%;
   margin: 10px auto;
+  float: none;
 }
 .image7 img{
   width: 100%;
   margin: 10px auto;
+  float: none;
 }
 .video1 video{
   width: 100%;
